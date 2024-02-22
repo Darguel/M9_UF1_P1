@@ -1,0 +1,23 @@
+.section {
+    display: flex;
+    flex-wrap: wrap;
+ }
+ 
+.div {
+    flex-basis: 23%;
+    margin: 0.5%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ 
+.item5{
+    flex-basis: 95%;
+}
+
+@media (max-width:600px){
+    .div{
+        flex-basis: 100%;
+    }
+}

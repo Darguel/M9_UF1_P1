@@ -1,0 +1,11 @@
+.lista{
+    display: flex;
+    padding: 1%;
+}
+.elemento{
+    width: 20%;
+    height: 50%;
+}
+a{
+    display: block;
+} 

@@ -1,0 +1,12 @@
+.section{
+    display: flex;
+    flex-wrap: wrap;
+}
+.div{
+    flex-basis: 23%;
+    margin: 0.2%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
